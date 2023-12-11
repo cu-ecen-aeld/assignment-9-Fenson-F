@@ -5,12 +5,14 @@
 #
 ##############################################################
 
-LDD_VERSION = '718cbdf07e082486e008537660e6b9fb4fb07a45'
+
+LDD_VERSION = '3224bd1d02c914f849c7ec8134e32a3b447610d9'
 
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 LDD_SITE = 'git@github.com:cu-ecen-aeld/assignment-7-Fenson-F.git'
+
 LDD_SITE_METHOD = git
 LDD_GIT_SUBMODULES = YES
 #CC = aarch64-none-linux-gnu-
